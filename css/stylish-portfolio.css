@@ -33,6 +33,9 @@ h5,
 h6 {
   font-weight: 700; }
 
+.lead {
+  text-align: left; }
+
 .text-faded {
   color: rgba(255, 255, 255, 0.7); }
 
